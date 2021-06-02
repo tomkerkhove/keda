@@ -11,6 +11,7 @@
       "groupName": "GitHub Actions"
     }
   ],
+  "schedule": ["every month on the first day of the month"],
   "extends": [
     "config:base",
     "default:disablePrControls",
